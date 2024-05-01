@@ -9,7 +9,7 @@ import cv2
 from transformers import CLIPTokenizer
 
 # API and device settings
-api_key = 'KEY'
+api_key = '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'
 client = openai.OpenAI(api_key=api_key)
 DEVICE = "cpu"
 ALLOW_CUDA = False
