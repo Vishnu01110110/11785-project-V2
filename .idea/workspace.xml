@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad424d29-4d9d-44b7-9477-f34f49154f95" name="Changes" comment="" />
+    <list default="true" id="ad424d29-4d9d-44b7-9477-f34f49154f95" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sd/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/sd/demo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/piyushtalreja/PycharmProjects/11785-project-V2/old",
+    "last_opened_file_path": "/Users/piyushtalreja/PycharmProjects/11785-project-V2/sd",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,9 +52,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sd" />
       <recent name="$PROJECT_DIR$/old" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sd" />
       <recent name="$PROJECT_DIR$/old" />
     </key>
   </component>
@@ -76,6 +81,7 @@
       <workItem from="1712871415945" duration="3199000" />
       <workItem from="1713392574900" duration="1207000" />
       <workItem from="1714534385239" duration="523000" />
+      <workItem from="1714534915376" duration="929000" />
     </task>
     <servers />
   </component>
