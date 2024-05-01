@@ -3,5 +3,4 @@ This pipeline integrates an Encoder-UNet-Decoder architecture for advanced image
  How to run
 1) Download v1-5-pruned-emaonly.ckpt from https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main add it to data 
 2) download all requirments from requirements.txt
-3) run demo.ipynb for seeing reults
-   
+3) run demo for results
